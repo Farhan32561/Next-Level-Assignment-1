@@ -18,7 +18,7 @@ The solution file contains the solution which covers
 
 1. [Understanding Type Narrowing in TypeScript](./Understanding%20Type%20Narrowing.md)
 
-2. [How Generics Work in TypeScript and Why Promise<T> Matters](./Generics%20in%20TypeScripts.md)
+2. [How Generics Work in TypeScript and Why Promise<T> Matters](./Generics%20in%20TypeScript.md)
 
 ## Files
 - solutions.ts — TypeScript solutions for all eight problems
